@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 )
-
+//Update in new branch
 
 func printMessage(id int) {
 	fmt.Printf("Привіт з потоку №%d\n", id)
