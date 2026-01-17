@@ -32,9 +32,6 @@ func generateProduct() Product {
  }
 }
 
-// second commit
-
-
 func task1() {
  arr := [10]int{41, 20, 26, 11, 46, 48, 5, 6, 29, 12}
 
